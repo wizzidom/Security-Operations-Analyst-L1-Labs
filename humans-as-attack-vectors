@@ -1,0 +1,32 @@
+TryHackMe Room Documentation – Humans as Attack Vectors
+
+Lab Name: Humans as Attack Vectors
+Link:(https://tryhackme.com/room/humansattackvectors)
+
+
+1. Objective / Learning Goals
+
+  >>> Understanding why and how people targeted in cyber attacks and how SOC teams helps defend them
+
+2. Key Concepts / Notes
+
+  >>> Humans are the weakest and easiest entry point for cyber attacks 
+  >>> Attackers mostly relie on social engineering techniques such as phishing ( which is when some recieves an email crafted to either create trust, urguncy, fear or curiousity), deepfakes (With the rise of ai, there has been an increase in adversaries using ai generated videos or audio to impersonate family members and collegues.) and the list goes on and on 
+  >>> SOC analyst's role is to help defend againsts such attacks using anti antiphishing solutions that can detect phishing emails before they even reach the user.
+  >>> Another way to combat this is to teach employees the principle of  "trust but verify" to prevent from attacks from deepfakes which will seem trustworthy at a glance but come with suspicious requests from known people
+  >>> As humans are the weakest link, it is crutial to regularly run security awareness training so people are more informed about these types of attacks
+  
+
+3. Hands-On / Practical Steps (if any)
+
+  >>> This lab featured a walkthrough iof how a SOC analyst would protect employees at risk of techniques like social engineering 
+  >>> On this lab I had to advise employees on not to download applications from unverified freeware websites and rather pay for software.
+  >>> I had to identify potential phishing attacks by analysing common patterns like verifying the email address and looking for urgency.
+  >>> I also got to implement policies such as always having antivirus on all workstations, investing in anti-phishing solutinos and regulary running security awareness campaigns
+
+
+5. Takeaways
+  >>> Regularly run  awareness training to keep employees informed about the latest attack trends
+  >>> Invest in anti-phishing solutions to prevent phishing emails from even reaching employees.
+
+
