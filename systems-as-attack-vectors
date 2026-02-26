@@ -1,0 +1,47 @@
+TryHackMe Room Documentation – Systems as Attack Vectors
+
+Lab Name: Systems as Attack Vectors
+Link: ([https://tryhackme.com/room/systemsattackvectors](https://tryhackme.com/room/systemsattackvectors))
+
+1. Objective / Learning Goals
+
+> > > Understanding how systems themselves become entry points for cyber attacks
+> > > Learning how SOC teams detect, monitor, and defend vulnerable systems
+
+2. Key Concepts / Notes
+
+> > > Systems become attack vectors when they are unpatched, misconfigured, or poorly secured
+
+> > > Attackers actively scan for outdated software, exposed services, and known vulnerabilities to gain initial access
+
+> > > Common system-based attack methods include exploiting unpatched operating systems, vulnerable applications, open ports, and weak configurations
+
+> > > Poor patch management increases the attack surface and gives adversaries more opportunities to exploit known CVEs
+
+> > > SOC analysts play a critical role by monitoring system logs, detecting suspicious activity, and responding to exploitation attempts
+
+> > > Implementing system hardening, least privilege access, and proper configuration management reduces the risk of privilege escalation
+
+> > > Continuous vulnerability scanning helps identify weaknesses before attackers do
+
+3. Hands-On
+
+> > > This lab featured a walkthrough showing how insecure systems can become entry points for attackers
+
+> > > I learned how outdated software versions create exploitable weaknesses
+
+> > > I reviewed how exposed services and open ports increase risk if not properly secured
+
+> > > I explored defensive measures such as applying patches regularly, disabling unnecessary services, and enforcing strong access controls
+
+> > > I observed how monitoring tools and alerts help SOC teams detect abnormal system behavior early
+
+5. Takeaways
+
+> > > Regular patching and proper configuration are essential to securing systems
+
+> > > Reducing the attack surface limits opportunities for attackers
+
+> > > Continuous monitoring and vulnerability management are core SOC responsibilities
+
+> > > Securing systems is just as important as securing people in a cybersecurity strategy
